@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../DeepSigma.Excel.FunctionAddin.Test/DeepSigma.Excel.FunctionAddin.Test.csproj" />
+  <Project Path="DeepSigma.Excel.FunctionAddin.csproj" />
+</Solution>
